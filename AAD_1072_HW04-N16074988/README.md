@@ -10,13 +10,6 @@ Please follow the instructions on the **Homework** sections in these codelabs.
 
 
 ## Part 1. Questions (20 pt)
-Please submit your answer on moodle.
-<https://moodle.ncku.edu.tw/course/view.php?id=104771>
-
-**[Notice]** 
-- You only have **one chance** to submit your answer.
-- Your score on moodle (out of 100) * 20 % = your points in this part. <br>
-For example, you score on moodle is 50, and then you got 50 * 20 % = 10 pt for this homework
 
 | Codelab | Questions |
 | --- | ----------- |

@@ -7,12 +7,6 @@ Please follow the instructions on the **Homework** sections in these codelabs.
 
 
 ## Part 1. Questions (40 pt)
-Please submit your answer on moodle.
-<https://moodle.ncku.edu.tw/course/view.php?id=104771>
-
-**[Notice]** 
-- You only have **one chance** to submit your answer.
-- There are two Questionnaire in this Homework (20 pt for each)
 
 | Codelab | Questions | Questionnaire Name |
 | --- | ----------- | ---------|
