@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Get Web Page Source Code</string>
+    <string name="instructions">Enter a book name</string>
+    <string name="button_text">get page source</string>
+    <string name="input_hint">Enter a book title</string>
+    <string name="no_results">"No Results Found"</string>
+    <string name="loading">Loading...</string>
+    <string name="no_search_term">Please enter a search term</string>
+    <string name="no_network">Please check your network connection and try again.</string>
+</resources>
