@@ -1,4 +1,4 @@
-# AAD_1072_HW04 *Not completed yet*
+# AAD_1072_HW04 *I haven't completed the RecyclerView yet*
 
 Please follow the instructions on the **Homework** sections in these codelabs.
 
